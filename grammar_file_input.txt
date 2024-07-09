@@ -1,0 +1,13 @@
+{
+HowIsBoo
+1 Boo is [Adjective] today
+}
+
+{
+Adjective
+3 happy
+3 perfect
+1 relaxing
+1 fulfilled
+2 excited
+}
